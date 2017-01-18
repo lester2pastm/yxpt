@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+._图片 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -47,7 +49,7 @@
 }
 ._流程形状 {
 }
-._图片 {
+._图片1 {
 }
 ._文本段落1 {
   text-align:left;
@@ -70,7 +72,7 @@
 }
 ._水平线 {
 }
-._图片1 {
+._图片2 {
   color:#000000;
 }
 .paragraph {
@@ -153,7 +155,7 @@
   font-size:13px;
   color:#000000;
 }
-._图片2 {
+._图片3 {
   font-size:13px;
   color:#000000;
 }
